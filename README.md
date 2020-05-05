@@ -54,8 +54,12 @@ zipalign -v 4 app-release.aab app-assinado-nomedoseuapp.aab
 Assim que acabar de execultar ira aparecer a mensagem ```Verification succesful```.
 O arquivo criado e assinado está com o nome: ```app-assinado-nomedoseuapp``` na sua pasta *'KeysApps'*, e com esse arquivo que você pode enviar para a PlayStore.
 
+  **aviso**
+  - Se você deseja instalar o arquivo .aab fora da Play Store, é necessário extrair primeiro os arquivos APK da AAB e instalá-los manualmente no seu dispositivo Android.
+  - Diferentemente dos arquivos .apk tradicionais, não é possível compartilhar ou carregar o arquivo .aab para teste. 
+
 [Linkedin](https://www.linkedin.com/in/matheus-vidigal-armax7/)
 [GitHub](https://github.com/Armax7)
 [Instagram](https://www.instagram.com/matheus_armax7/)
 
->Armax7...
+#### Armax7...
