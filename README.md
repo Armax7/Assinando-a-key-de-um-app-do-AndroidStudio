@@ -1,17 +1,21 @@
-# Assinando-a-key-de-um-app-do-AndroidStudio
-Esse é um tutorial de como Assinar uma key do Android Studio para a públicação na PlayStory.
-Tenha em mente que o tutorial conta que você já gerou a key, tanto faz se for o (padrão .apk) ou (Bundle .aab).
+<h1 align="center">
+  Assinando-a-key-de-um-app-do-AndroidStudio
+  <br>
+</h1>
+<h4 align="center">Esse é um tutorial de como Assinar uma key do Android Studio para a públicação na PlayStory.
+Tenha em mente que o tutorial conta que você já gerou a key, tanto faz se for o (padrão .apk) ou (Bundle .aab).</h4>
+<br>
 
-## ASSINANDO A KEY
+## ASSINANDO A KEY 🖋️🔑
 Presumo que você está no windows 7 acima e já fez a parte burocratica de criar a key, coloca-lo numa pasta a parte e criou seu release.
 --Bom essa pasta se chama *'KeysApps'* e está localizada nos seus arquivos de usúario
 *'C:\Users\Matheus Vidigal\KeysApps'.* 
 Dentro da pasta vai estar a *'KeyApp.jks'*
 
-## Incluindo outros arquivos
+## Incluindo outros arquivos 📝📂
 Vamos incluir mais 2 arquivos que juntos irão assinar(KeyApp.jks) e criar o terceiro arquivo para enviar ao PlayStore.
 
-  **NOTA IMPORTANTE:**
+  **⚠️NOTA IMPORTANTE⚠️**
   Existe 2 formas de gerar uma assinatura com a nova atualização do AndroidStudio, o .apk e o Android App Bundle, as 2 formas são praticamente identicas para se assinar. Citarei as duas formas.
   
   obs: Faça um ou outro (**.apk** ou **.abb**) de acordo como você gerou sua assinatura (apk ou bundle).
@@ -78,12 +82,14 @@ O arquivo criado e assinado está com o nome: ```app-assinado-nomedoseuapp``` na
 >O arquivo criado e assinado está com o nome: ```app-assinado-nomedoseuapp``` na sua pasta *'KeysApps'* ...
 ![5_Pasta-KeysApps_@@@@_FINAL_Como_Fica](https://user-images.githubusercontent.com/52816125/81102339-e17de280-8ee5-11ea-80a4-8a698448b8cd.png)
 
-  **aviso**
+  **⚠️aviso⚠️**
   - Se você deseja instalar o arquivo .aab fora da Play Store, é necessário extrair primeiro os arquivos APK da AAB e instalá-los manualmente no seu dispositivo Android.
   - Diferentemente dos arquivos .apk tradicionais, não é possível compartilhar ou carregar o arquivo .aab para teste. 
 
-[Linkedin](https://www.linkedin.com/in/matheus-vidigal-armax7/) |
-[GitHub](https://github.com/Armax7) |
-[Instagram](https://www.instagram.com/matheus_armax7/)
+## Contato ✉️
+| [<img src="https://user-images.githubusercontent.com/52816125/81789587-93b33c80-94da-11ea-8c9a-413824e6424e.jpg" width=115><br><sub>@MatheusVidigal🦊</sub>](https://github.com/Armax7) |
+| :---: |
 
-###### Armax7...
+[Linkedin](https://www.linkedin.com/in/matheus-vidigal-armax7/) |
+[Instagram](https://www.instagram.com/matheus_armax7/) |
+[gmail](https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSGLCKpKJfwPsKKqzXBplKkGtCLvCQcFWdWxCxQFfkHzzjVkgzrMFPBgKBmWFHvrjrCsMqSH)
