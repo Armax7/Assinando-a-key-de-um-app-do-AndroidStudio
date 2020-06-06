@@ -18,7 +18,7 @@ Vamos incluir mais 2 arquivos que juntos irão assinar(KeyApp.jks) e criar o ter
   **⚠️NOTA IMPORTANTE⚠️**
   Existe 2 formas de gerar uma assinatura com a nova atualização do AndroidStudio, o .apk e o Android App Bundle, as 2 formas são praticamente identicas para se assinar. Citarei as duas formas.
   
-  obs: Faça um ou outro (**.apk** ou **.abb**) de acordo como você gerou sua assinatura (apk ou bundle).
+  obs: Faça um ou outro (**.apk** ou **.aab**) de acordo como você gerou sua assinatura (apk ou bundle).
 
 O primeiro arquivo:
   - Abra o AndroidStudio e clique no SDK Manager
