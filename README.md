@@ -105,9 +105,14 @@ O arquivo criado e assinado está com o nome: ```app-assinado-nomedoseuapp``` na
   - Diferentemente dos arquivos .apk tradicionais, não é possível compartilhar ou carregar o arquivo .aab para teste. 
 
 ## Contato ✉️
-| [<img src="https://user-images.githubusercontent.com/52816125/81789587-93b33c80-94da-11ea-8c9a-413824e6424e.jpg" width=115><br><sub>@MatheusVidigal🦊</sub>](https://github.com/Armax7) |
+| [<img src="https://user-images.githubusercontent.com/52816125/90341686-05b68880-dfd8-11ea-969c-70c9ce9d0278.jpg" width=115><br><sub>@MatheusVidigal🦊</sub>](https://github.com/NyctibiusVII) |
 | :---: |
 
-[Linkedin](https://www.linkedin.com/in/matheus-vidigal-armax7/) |
-[Instagram](https://www.instagram.com/matheus_armax7/) |
-[gmail](https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSGLCKpKJfwPsKKqzXBplKkGtCLvCQcFWdWxCxQFfkHzzjVkgzrMFPBgKBmWFHvrjrCsMqSH)
+<p align="left">	
+   <a href="https://www.linkedin.com/in/matheus-vidigal-nyctibiusvii/">
+      <img alt="Matheus Vidigal / Linkedin" src="https://img.shields.io/badge/-Matheus Vidigal-orange?style=flat&logo=Linkedin&logoColor=white" />
+   </a>
+   <a href="https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSGLCKpKJfwPsKKqzXBplKkGtCLvCQcFWdWxCxQFfkHzzjVkgzrMFPBgKBmWFHvrjrCsMqSH">
+      <img alt="Matheus Vidigal / Linkedin" src="https://img.shields.io/badge/-Matheus Vidigal-orange?style=flat&logo=Gmail&logoColor=white" />
+   </a>
+</p>
