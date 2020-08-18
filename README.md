@@ -118,8 +118,11 @@ O arquivo criado e assinado está com o nome: ```app-assinado-nomedoseuapp``` na
   - Se você deseja instalar o arquivo .aab fora da Play Store, é necessário extrair primeiro os arquivos APK da AAB e instalá-los manualmente no seu dispositivo Android.
   - Diferentemente dos arquivos .apk tradicionais, não é possível compartilhar ou carregar o arquivo .aab para teste. 
 
+## Licença ⚖️
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/NyctibiusVII/Assinando-a-key-de-um-app-do-AndroidStudio/blob/master/LICENSE) para mais detalhes.
+
 ## Contato ✉️
-| [<img src="https://user-images.githubusercontent.com/52816125/90341686-05b68880-dfd8-11ea-969c-70c9ce9d0278.jpg" width=115><br><sub>@MatheusVidigal🦊</sub>](https://github.com/NyctibiusVII) |
+| <img src="https://user-images.githubusercontent.com/52816125/90341686-05b68880-dfd8-11ea-969c-70c9ce9d0278.jpg" width=100><br><sub><a href="https://www.instagram.com/nyctibius_vii/?hl=pt-br">@MatheusVidigal🦊</a></sub> |
 | :---: |
 
 <p align="left">	
